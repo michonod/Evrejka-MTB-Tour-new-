@@ -60,7 +60,7 @@ header .logo {
   z-index: 2;
 }
 .showcase.active {
-  right: 300px;
+  right: 250px;
 }
 
 .showcase video {
@@ -150,7 +150,7 @@ header .logo {
   position: absolute;
   top: 0;
   right: 0;
-  width: 300px;
+  width: 250px;
   height: 100%;
   display: flex;
   justify-content: center;
